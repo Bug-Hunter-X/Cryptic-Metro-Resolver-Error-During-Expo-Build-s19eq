@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the 'metro-resolver' package.  The specific error message was cryptic and unhelpful, mentioning issues with resolving modules or dependencies, but not pinpointing the exact cause. My project had a relatively simple structure, and I couldn't identify any obvious problems with my imports or package.json file.
